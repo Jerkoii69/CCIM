@@ -33,8 +33,8 @@
             </tr>
 
              <tr>
-                   <td><label for="tungolUSername">Username</label></td>
-                   <td><input type="text" name="tungolUsername" id="tungolUsername" required></td>
+                   <td><label for="tungolUSername">Student ID</label></td>
+                   <td><input type="text" name="tungolUsername" id="tungolUsername" placeholder="MA-12345678" required></td>
             </tr>
 
             <tr>

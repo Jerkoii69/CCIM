@@ -17,7 +17,7 @@ $result = mysqli_query($jerwin, $query);
 
 if (mysqli_num_rows($result) > 0) {
 
-    header("Location: Project.html");
+    header("Location: Project.php");
     exit();
 
 } else {
